@@ -1,6 +1,7 @@
 {
   "name": "yii2-noty",
   "description": "A notification widget for Yii2 based on Noty.JS",
+  "type": "library",
   "keywords": [
     "php",
     "yii2",
