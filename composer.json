@@ -1,0 +1,26 @@
+{
+  "name": "yii2-noty",
+  "description": "A notification widget for Yii2 based on Noty.JS",
+  "keywords": [
+    "php",
+    "yii2",
+    "widget",
+    "noty",
+    "notyjs"
+  ],
+  "authors": [
+    {
+      "name": "Vladislav O. Muschinskikh",
+      "email": "i@vlad.guru"
+    }
+  ],
+  "require": {
+    "php": ">=7.0",
+    "needim/noty": "^v3.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "MuVO\\Yii2\\Notifications\\": "src/"
+    }
+  }
+}
